@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> # -*- coding: utf-8 -*-
+> with open("lyric-raw.txt", "w", encoding="utf-8") as f:
+> f.write("""
+> نار الشوق في قلبي تناديك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
