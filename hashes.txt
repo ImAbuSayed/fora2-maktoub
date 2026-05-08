@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fora2 Maktoub
+
+This log tracks the cryptographic history and versioning for the song **Fora2 Maktoub** (fora2-maktoub).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T00:45:16.164166 | `v1` | `7a2b07343ef2e1a99e5c351e3e77de9b673d785daa7231940141c91ed0752b7d` | `2336ba8aa99a00a9098f8b3dc8a0216a70b28387aeda68f549c9a4495e0c8498` | `2026-05-09_fora2-maktoub-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

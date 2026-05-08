@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+with open("lyric-raw.txt", "w", encoding="utf-8") as f:
+    f.write("""[Hook (Arabic)]
+[Male]
+نار الشوق في قلبي تناديك
+في كل ليلة روحي تناجيك
+[Female]
+نورك في العتمة يهديني
+حبك في صمتي يحييني
